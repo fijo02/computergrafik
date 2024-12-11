@@ -1,0 +1,4 @@
+/home/fiona/Dokumente/LaborComputergrafik/geometry/CMakeFiles/math_test.dir
+/home/fiona/Dokumente/LaborComputergrafik/geometry/CMakeFiles/geometry_test.dir
+/home/fiona/Dokumente/LaborComputergrafik/geometry/CMakeFiles/edit_cache.dir
+/home/fiona/Dokumente/LaborComputergrafik/geometry/CMakeFiles/rebuild_cache.dir
