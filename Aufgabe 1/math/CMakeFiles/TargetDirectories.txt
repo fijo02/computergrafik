@@ -1,0 +1,3 @@
+/home/fiona/Dokumente/LaborComputergrafik/math/CMakeFiles/math_test.dir
+/home/fiona/Dokumente/LaborComputergrafik/math/CMakeFiles/edit_cache.dir
+/home/fiona/Dokumente/LaborComputergrafik/math/CMakeFiles/rebuild_cache.dir
